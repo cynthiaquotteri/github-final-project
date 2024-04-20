@@ -8,3 +8,4 @@ Input:
 Output
    simple interest = p*t*r
 es un archivo de rebajas en este repositorio
+que suerte
